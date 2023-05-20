@@ -3,7 +3,7 @@ VegiScan App (elevatorPitch)
 
 Hola, soy Sergio Alvarado y quiero que descubran VegiScan, 
 la aplicación móvil definitiva para veganos! 
-Con VegScan, podrás escanear productos a través 
+Con VegiScan, podrás escanear productos a través 
 de la cámara de tu dispositivo para saber al instante 
 si son aptos para veganos. Olvídate de pasar horas leyendo 
 etiquetas y deja que VegiScan haga el trabajo por ti.
@@ -25,7 +25,7 @@ VegiScan es tu compañero vegano todo en uno,
 diseñado para simplificar tu vida y ayudarte
 a alcanzar tus metas nutricionales.
 
-Descarga VegLife hoy mismo y descubre el poder 
+Descarga VegiScan hoy mismo y descubre el poder 
 de una vida basada en plantas  sin complicaciones. 
-¡Descubre la verdadera libertad vegana con VegLife!
+¡Descubre la verdadera libertad vegana con VegiScan!
 100% amor, cero crueldad!.
